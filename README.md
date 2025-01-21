@@ -1,9 +1,7 @@
 # 8.1 Zork
 
 Rubric:
-Here is the table in markdown format:
 
-```markdown
 | Criteria | Ratings | Pts |
 | --- | --- | --- |
 | **MAP - Minimum of 10 "Rooms"** | Minimum of 10 "rooms" or locations | 5 to >0.0 pts |
@@ -60,4 +58,4 @@ Here is the table in markdown format:
 | **Game Play - Creative Story** | The game should feature a creative and engaging story that captivates the player, with a unique plot, compelling characters, and an immersive world that encourages exploration and interaction. | 10 to >0.0 pts |
 | | Full Marks | 10 pts |
 | | No Marks | 0 pts |
-```
+
