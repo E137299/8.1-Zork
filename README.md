@@ -12,22 +12,25 @@ In teams of two, create an engaging and interactive text-based adventure game in
 - Minimum of 3 "Walls": Include at least three barriers that prevent movement to adjacent locations.
 - Minimum of 1 "Tunnel": Add one secret passage or portal that allows travel between non-adjacent rooms.
 ### Game Functions
-Help Function: Displays all available commands.
-Map Function: Shows a visual or text-based map of the game world, including the player's current location.
-Movement: Players must be able to move in cardinal directions (north, south, east, west).
-Pick Up: Players can pick up items and store them in a backpack.
-Drop: Players can drop items, which will appear in the current location.
-Game-Specific Function: Include one unique function that matches your game’s theme, such as casting a spell or solving a puzzle.
-Game Features
-Winning Condition: Define a clear way for the player to win.
-Losing Condition: Define a way for the player to lose.
-Backpack: Limit inventory capacity, requiring strategic management.
-Collectible Items: Items that players must collect to progress or win.
-Challenges: Incorporate tasks such as solving puzzles or defeating enemies.
-Element of Chance: Include randomness in challenges (e.g., dice rolls or probabilities).
-Final Boss or Challenge: Create a climactic final test for the player to overcome.
-Gameplay and Story
-Aesthetics: Ensure smooth, intuitive gameplay with a user-friendly interface.
-Creative Story: Develop a captivating plot, interesting characters, and an immersive world.
+- *Help Function*: Displays all available commands.
+- *Map Function*: Shows a visual or text-based map of the game world, including the player's current location.
+- *Movement*: Players must be able to move in cardinal directions (north, south, east, west).
+- *Pick Up Function*: Players can pick up items and store them in a backpack.
+- *Drop Function*: Players can drop items, which will appear in the current location.
+- *Game-Specific Functions*: Include at least two unique function that matches your game’s theme, such as casting a spell or solving a puzzle.
+### Game Features
+- *Winning Condition*: Define at least one clear way for the player to win.
+- *Losing Condition*: Define at least one way for the player to lose.
+- *Backpack*: Limit inventory capacity, requiring strategic management.
+- *Collectible Items*: Items that players must collect to progress or win.
+- *Challenges*: Incorporate tasks such as solving puzzles or defeating enemies.
+- *Element of Chance*: Include randomness in challenges (e.g., dice rolls or probabilities).
+- *Final Boss or Challenge*: Create a climactic final test for the player to overcome.
+### Gameplay and Story
+- *Aesthetics*: Ensure smooth, intuitive gameplay with a user-friendly interface.
+- *Creative Story*: Develop a captivating plot, interesting characters, and an immersive world.
+
+
+
 
 
