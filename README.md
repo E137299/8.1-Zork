@@ -1,25 +1,33 @@
 # 8.1 Zork
 
-## Rubric:
+## Zork
+**Zork** is a pioneering text-based adventure game originally developed in the late 1970s by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling at MIT. Released by Infocom in 1980, Zork is one of the earliest examples of interactive fiction and showcases the possibilities of storytelling in gaming. The game invites players to explore a mysterious underground world filled with puzzles, treasures, and dangers, described entirely through text. Players interact with the game by typing commands to navigate, manipulate objects, and solve challenges. Its richly descriptive narrative, humor, and complex gameplay captivated early gamers and established Zork as a landmark in video game history. It remains an influential and celebrated classic, inspiring countless adventure games and interactive stories that followed.
 
-| Criteria | Ratings | Pts |
-| --- | --- | --- |
-| **MAP - Minimum of 10 "Rooms"** | Minimum of 10 "rooms" or locations | 5 |
-| **MAP - Minimum of 3 "walls"** | Minimum of 3 walls or barriers that prevent the player from moving to an adjacent "room" | 5 |
-| **MAP - Minimum of 1 "tunnel"** | At least one tunnel, portal, or secret passageway must allow the player to travel to a non-adjacent room from their current location. | 2 |
-| **Required Function - Help** | Displays a list of all available commands that the player can use. | 1 |
-| **Required Function - Map** | Shows a map of the game world including the player's current location. | 1 |
-| **Required Function - Cardinal Directions** | Provides functions to move the player in different directions, such as up, down, left, and right, or north, south, east, and west, based on the game's coordinate or directional system. | 10 |
-| **Required Function - Pick Up** | Pick up function allows the player to pick up items and store them in their "backpack." Once an item is picked up, it is removed from its current location and added to the player's inventory. | 5 |
-| **Required Function - Drop** | Drop function removes a specified item from the player's "backpack" and places it in the current location within the game world. | 5 |
-| **Required Function - Game Specific Function** | Creates a unique, game-specific function that the player can call. For example, in a fantasy game, this could be a "cast_spell()" function to use magic, or in a survival game, it might be a "build_shelter()" function to create protection. | 3 |
-| **Game Loop - Player Wins** | At least one clearly defined condition for the player to win the game, such as finding a specific item, reaching a designated location, completing a quest, or defeating a final opponent. | 5 |
-| **Game Loop - Player Loses** | Defines at least one clear condition for the player to lose the game, such as running out of health, failing to complete a mission within a certain number of moves, or triggering a game-ending event like being captured or trapped. | 5 |
-| **GAME - Backpack** | Implements a "backpack" for the player to store collected items. The backpack has a limited capacity, requiring the player to manage their inventory strategically by discarding less valuable items to make room for more important ones. | 5 |
-| **Game - Items** | The player must collect specific items, such as potions, weapons, or grades, to win the game or overcome challenges. These items are essential for progressing through the game and achieving victory. | 5 |
-| **Game - Challenges** | The player must complete various challenges as they progress through the world, such as answering riddles, fighting enemies, solving puzzles, or completing tasks, to advance further and ultimately win the game. | 5 |
-| **Game - Element of Chance** | There must be an element of chance involved when the player takes on a challenge, meaning success is not guaranteed. The likelihood of success can vary depending on the player's possessions, accomplishments, or choices throughout the game. | 5 |
-| **Game - Final Boss/Challenge** | The game must include at least one final boss or challenge that serves as the ultimate test for the player, requiring them to apply all the skills, items, and knowledge they've acquired throughout the game to succeed. | 10 |
-| **Game Play - Aesthetics** | The game must have smooth, intuitive gameplay with a user-friendly interface. The design and aesthetics should be appealing, ensuring an engaging and enjoyable experience for the player. | 10 |
-| **Game Play - Creative Story** | The game should feature a creative and engaging story that captivates the player, with a unique plot, compelling characters, and an immersive world that encourages exploration and interaction. | 10 |
+## Objective
+In teams of two, create an engaging and interactive text-based adventure game inspired by classics like Zork. Your game will feature a creative storyline, multiple locations, player interactions, and challenges that ensure a fun and immersive experience.
+
+## Requirements
+### World Design
+- Minimum of 10 "Rooms": Create at least 10 unique locations that the player can explore.
+- Minimum of 3 "Walls": Include at least three barriers that prevent movement to adjacent locations.
+- Minimum of 1 "Tunnel": Add one secret passage or portal that allows travel between non-adjacent rooms.
+### Game Functions
+Help Function: Displays all available commands.
+Map Function: Shows a visual or text-based map of the game world, including the player's current location.
+Movement: Players must be able to move in cardinal directions (north, south, east, west).
+Pick Up: Players can pick up items and store them in a backpack.
+Drop: Players can drop items, which will appear in the current location.
+Game-Specific Function: Include one unique function that matches your game’s theme, such as casting a spell or solving a puzzle.
+Game Features
+Winning Condition: Define a clear way for the player to win.
+Losing Condition: Define a way for the player to lose.
+Backpack: Limit inventory capacity, requiring strategic management.
+Collectible Items: Items that players must collect to progress or win.
+Challenges: Incorporate tasks such as solving puzzles or defeating enemies.
+Element of Chance: Include randomness in challenges (e.g., dice rolls or probabilities).
+Final Boss or Challenge: Create a climactic final test for the player to overcome.
+Gameplay and Story
+Aesthetics: Ensure smooth, intuitive gameplay with a user-friendly interface.
+Creative Story: Develop a captivating plot, interesting characters, and an immersive world.
+
 
